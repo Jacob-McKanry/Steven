@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+N:Mckanry;Chris;;;
+FN:Chris Mckanry
+ORG:Islander Investments;
+EMAIL;type=INTERNET;type=HOME;type=pref:cmckanry@gmail.com
+EMAIL;type=INTERNET;type=WORK:islanderproperties@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:(619) 384-8546
+item1.URL;type=pref:islanderinvestments.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
