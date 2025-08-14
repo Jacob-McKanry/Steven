@@ -1,1 +1,11 @@
-# Steven
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+N:Margolis;Steven;;;
+FN:Steven Margolis
+ORG:NYFCR;
+EMAIL;type=INTERNET;type=WORK;type=pref:Nyfcrchairman@gmail.com
+EMAIL;type=INTERNET;type=HOME:Steven.Margolis1029@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:(347) 525-8436
+PHOTO;ENCODING=b;TYPE=JPEG:
+END:VCARD
